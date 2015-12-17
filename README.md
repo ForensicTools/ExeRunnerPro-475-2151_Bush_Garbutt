@@ -34,3 +34,7 @@ Technical notes:
 * As of 11/13/2015 metrics recorded are MD5 Hash, SHA1 Hash, Last Accessed Time, Last Modified Time, Creation Time
 * The MAC times are saved in UTC
 *Can be compiled using PowerGUI - http://en.community.dell.com/techcenter/powergui 
+
+Needed and recomended packages
+Powershell 5 https://www.microsoft.com/en-us/download/details.aspx?id=48729
+Sysinternals : Included *recomended to run as system
