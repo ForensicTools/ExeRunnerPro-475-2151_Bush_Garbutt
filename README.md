@@ -3,13 +3,13 @@
 
 What EXERunnerPro does:
 
-1) Determine what all artifacts are that left by any program when you install or run it. 
-2) Search a computer for that artifacts to determine if and when a program was likely installed/ran.
+1) Determine all artifacts that are left by any program when you install or run it. 
+2) Search a computer for the artifacts to determine if and when a program has been likely installed/ran.
 
 Workflow:
 
 1) Run the script EXERunnerPro.ps1
-2) It takes the first snapshot and saves it to the same directory as the script.
+2) It takes the first snapshot and saves it to the same directory as that of script.
   2a) This is to snapshot exactly what the target computer was like at the time.
   2b) The program will perform an MD5 and SHA1 hash on all files as well as record their MAC times.
   2c) It backs up the registry completely 
